@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7dded4d1-f923-419d-98eb-82840a428df0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthenticationJwt/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AuthenticationJwt/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,5 +54,20 @@
       <updated>1760708430279</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/AuthenticationJwt/src/main/java/com/lucasramallo/authenticationjwt/config/JwtService.java</url>
+          <line>31</line>
+          <properties class="com.lucasramallo.authenticationjwt.config.JwtService" method="extractClaim">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
