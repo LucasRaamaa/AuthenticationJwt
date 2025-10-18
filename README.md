@@ -7,14 +7,23 @@ La idea fue crear una base sencilla pero completa para manejar registro, login y
 Estructura del proyecto
 
 ├── auth
+
 │ ├── AuthController.java
+
 │ ├── AuthService.java
+
 │ └── dto
+
 │ ├── RegisterRequest.java
+
 │ ├── LoginRequest.java
+
 │ └── AuthResponse.java
+
 │
+
 ├── config
+
 │ ├── JwtService.java
 │ ├── JwtAuthenticationFilter.java
 │ ├── SecurityConfig.java
