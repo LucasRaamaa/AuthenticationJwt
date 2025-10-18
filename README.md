@@ -25,17 +25,31 @@ Estructura del proyecto
 ├── config
 
 │ ├── JwtService.java
+
 │ ├── JwtAuthenticationFilter.java
+
 │ ├── SecurityConfig.java
+
 │ └── ApplicationConfig.java
+
 │
+
 ├── controller
+
 │ └── DemoController.java
+
 │
+
 ├── entities
+
 │ └── User.java
+
 │
+
 ├── repository
+
 │ └── UserRepository.java
+
 │
+
 └── AuthenticationJwtApplication.java
